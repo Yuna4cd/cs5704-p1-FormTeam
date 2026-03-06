@@ -8,6 +8,15 @@ To solve this problem, the web-based system proposed in this article, FormTeam, 
 
 In summary, the FormTeam system provides a solution that can solve the problem of unbalanced teams. Event organizers can use this system to save significant time while maintaining the participant's experience. In the future, we'll adapt the system to multiple devices and run user testing again to ensure the product is usable.
 
-How to use:
+Instructions:
 
 Click the Figma Prototype Link: https://www.figma.com/proto/kbGeHVF2MXMjNBIj9CZ3Z0/cs5704-pm1.2-prototype?node-id=6-3&p=f&t=eHTiBQSn0SSTf0Uv-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=6%3A3 
+
+Issues for detected bugs:
+
+1. In the Figma prototype, the event nav button at search page is not linked to the event page.
+2. Missing notification for task completion.
+
+If there were more time:
+1. Implement a React project based on the prototype.
+2. Add more colors to the Figma prototype.
